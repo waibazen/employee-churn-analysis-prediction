@@ -15,3 +15,10 @@ Understanding why and when employees are most likely to leave can lead to action
 In this case study, a  fictional HR dataset was sourced from **IBM HR Analytics Employee Attrition & Performance** which contains various numerical and categorical features of employee data . I will use this dataset **Capstone2_HR** to predict core key drivers of employee churn.
 
 But for practical purpose :I have named the company "**Star line Co.**" and have created Problem Statement and Issue trees around a fictitious context.
+
+**EDA**
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the countplot .
+Inline-style: 
+![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/eda.png "Logo Title Text 1")
+
+
