@@ -3,6 +3,7 @@ Understanding why and when employees are most likely to leave can lead to action
 # Code and Resources Used
 Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
+kaggle aricle: https://www.kaggle.com/hamzaben/employee-churn-model-w-strategic-retention-plan
 
 **Dataset:**
 In this case study, a  fictional HR dataset was sourced from **IBM HR Analytics Employee Attrition & Performance** which contains various numerical and categorical features of employee data . I will use this dataset **Capstone2_HR** to predict core key drivers of employee churn.
