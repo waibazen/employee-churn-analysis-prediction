@@ -28,16 +28,16 @@ I tried two different models and evaluated them using confusion matrix. I chose 
 
 I tried two different models:
 
---Logistic Regression – Baseline for the model
---Random Forest – without feature engineering the data, I thought that this would be a good fit.
+A)Logistic Regression – Baseline for the model
+B)Random Forest – without feature engineering the data, I thought that this would be a good fit.
 
 # Model performance
 The Random Forest model r outperformed the logistic regression on the test and validation sets based on our business rule:
 
-1.Random Forest :
---Accuracy = 0.86,Precision =0.36, Recall=0.73
-2.Logistic Regression:
---Accuracy = 0.75,Precision =0.80, Recall=0.17
+1. Random Forest :
+Accuracy = 0.86,Precision =0.36, Recall=0.73
+2. Logistic Regression:
+Accuracy = 0.75,Precision =0.80, Recall=0.17
 
 
 
