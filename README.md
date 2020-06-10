@@ -18,7 +18,7 @@ But for practical purpose :I have named the company "**Star line Co.**" and have
 
 **EDA**
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the countplot .
-Inline-style: 
+
 ![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/eda.png "Logo Title Text 1")
 
 
