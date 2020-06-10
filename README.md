@@ -5,6 +5,6 @@ Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 **Dataset:**
-In this case study, a  fictional HR dataset was sourced from **IBM HR Analytics Employee Attrition & Performance** which contains various numerical and categorical features of employee data . I will use this dataset to predict core key drivers of employee churn.
+In this case study, a  fictional HR dataset was sourced from **IBM HR Analytics Employee Attrition & Performance** which contains various numerical and categorical features of employee data . I will use this dataset **Capstone2_HR** to predict core key drivers of employee churn.
 
 But for practical purpose :I have named the company "**Star line Co.**" and have created Problem Statement and Issue trees around a fictitious context.
