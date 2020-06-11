@@ -24,7 +24,7 @@ I looked at the distributions of the data and the value counts for the various c
 # Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 30%.
 
-I tried two different models and evaluated them using confusion matrix. I chose Precision and accuracy because data set is fairly imbalanced and company prioritizes to optimize its model on predicting less false positive i.e. employee who left and was lablelled active.
+I tried two different models and evaluated them using confusion matrix. I chose Precision and accuracy because data set is fairly imbalanced and company prioritizes to optimize its model on predicting less false positive i.e. employee who left but were labelled as active employee.
 
 I tried two different models:
 
