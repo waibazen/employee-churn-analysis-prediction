@@ -23,6 +23,7 @@ But for practical purpose :I have named the company "**Star line Co.**" and have
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the countplot .
 
 ![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/eda.png "Logo Title Text 1")
+![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/heatmap.png"Logo Title Text 2")
 
 # Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 30%.
