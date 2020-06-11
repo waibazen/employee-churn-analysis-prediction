@@ -1,5 +1,5 @@
 # employee-churn-analysis-prediction:Project Overview
-Understanding why and when employees are most likely to leave can lead to actions to improve employee retention as well as possibly planning new hiring in advance.I used both descriptive and inferential statistical approach to understand the key drivers of churn happening within the company . This capstone project falls under  "HR Analytics".
+This is the repo for my second capstone project and it falls under "HR Analytics".Understanding why and when employees are most likely to leave can lead to actions to improve employee retention as well as possibly planning new hiring in advance.I used both descriptive and inferential statistical approach to understand the key drivers of churn happening within the company. 
 <li>Created a tool that predicts the likelihood of employee churn (accuracy:86%) and identified key features of churn to help management in  making strategic changes to improve retention .</li>
 <li>Engineered and analysed dataset feature columns and applied transformation to categorical fields</li>
 <li>Optimized Logistic and Random Forest Regressors using GridsearchCV to reach the best model.</li>
