@@ -20,7 +20,7 @@ In this case study, a  fictional HR dataset was sourced from **IBM HR Analytics 
 But for practical purpose :I have named the company "**Star line Co.**" and have created Problem Statement and Issue trees around a fictitious context.
 
 # EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the countplot .
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the EDA .
 
 ![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/eda.png "Logo Title Text 1")
 ![alt text](https://github.com/waibazen/employee-churn-analysis-prediction/blob/master/heatmap.png "Logo Title Text 2")
