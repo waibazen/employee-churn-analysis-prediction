@@ -40,9 +40,9 @@ B)Random Forest – I thought that this would be a good fit for it gives feature
 The Random Forest model r outperformed the logistic regression on the test and validation sets based on our business rule:
 
 1. Random Forest :
-Accuracy = 0.86,Precision =0.80, Recall=0.17
+Accuracy = 0.86,Precision =0.83, Recall=0.14
 2. Logistic Regression:
-Accuracy = 0.75,Precision =0.36, Recall=0.73
+Accuracy = 0.75,Precision =0.36, Recall=0.74
 
 
 
