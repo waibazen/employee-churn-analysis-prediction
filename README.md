@@ -6,7 +6,6 @@ Understanding why and what kind of  employees are most likely to leave can lead 
 <li>Optimized Logistic and Random Forest Regressors using GridsearchCV to reach the best model.</li>
 <li>Utilized Random Forest's Feature Importance to identify key feature for the prediction model </li>
 
-This is the repo for my second capstone project and it falls under "HR Analytics".From Sep 2019 to April 2020 I completed a number of projects as part of the Springboard Data Analytics Track.
 
 
 # Code and Resources Used
